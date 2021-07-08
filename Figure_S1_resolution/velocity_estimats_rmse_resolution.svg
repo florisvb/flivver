@@ -11,10 +11,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="8in"
    id="svg8"
-   inkscape:export-filename="/home/caveman/Sync/LAB_Private/FLIVVER_notebooks/FLIVVER_20210615/2021_velocity_estimation_figure_5/velocity_estimats_rmse_resolution.png"
+   inkscape:export-filename="/Users/florisvb/Sync/LAB_Private/FLIVVER_notebooks/FLIVVER_20210615/Figure_S1_resolution/velocity_estimats_rmse_resolution.png"
    inkscape:export-xdpi="600"
    inkscape:export-ydpi="600"
-   inkscape:version="0.92.5 (0.92.5+68)"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
    sodipodi:docname="velocity_estimats_rmse_resolution.svg"
    version="1.1"
    viewBox="0 0 95.250001 203.20001"
@@ -98,18 +98,18 @@
      bordercolor="#666666"
      borderopacity="1.0"
      id="base"
-     inkscape:current-layer="layer2"
-     inkscape:cx="-119.76257"
-     inkscape:cy="433.44249"
+     inkscape:current-layer="g5888"
+     inkscape:cx="101.44635"
+     inkscape:cy="71.001191"
      inkscape:document-rotation="0"
      inkscape:document-units="mm"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:window-height="2136"
+     inkscape:window-height="1067"
      inkscape:window-maximized="1"
-     inkscape:window-width="3781"
-     inkscape:window-x="59"
-     inkscape:window-y="24"
+     inkscape:window-width="1792"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      inkscape:zoom="1.964774"
      pagecolor="#ffffff"
      showgrid="false"
@@ -2315,47 +2315,47 @@
      style="stroke-linecap:butt;stroke-linejoin:round">
     <text
        id="text1966"
-       style="font-style:normal;font-weight:normal;font-size:10.58329964px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="37.702026"
        xml:space="preserve"
        y="162.89197"><tspan
          id="tspan1964"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222009px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458299px;stroke-linecap:butt;stroke-linejoin:round"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:round"
          x="37.702026"
          y="162.89197">Receptive field size, degrees</tspan></text>
     <text
        id="text1966-6-2"
-       style="font-style:normal;font-weight:normal;font-size:10.58329964px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="rotate(-90)"
        x="-106.47916"
        xml:space="preserve"
        y="8.212038"><tspan
          id="tspan1964-9-6"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222009px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458299px;stroke-linecap:butt;stroke-linejoin:round"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:round"
          x="-106.47916"
          y="8.212038">Root Median Squared Error (m/s)</tspan></text>
     <text
        id="text1957-3"
-       style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="67.050301"
        xml:space="preserve"
        y="64.579323"><tspan
          id="tspan1955-6"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:round"
          x="67.050301"
          y="64.579323">Pixel resolution = 1°</tspan></text>
     <text
        id="text1957-3-8"
-       style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="67.050301"
        xml:space="preserve"
        y="109.79195"><tspan
          id="tspan1955-6-0"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:round"
          x="67.050301"
          y="109.79195">Pixel resolution = 2°</tspan></text>
     <g
@@ -2480,12 +2480,12 @@
        y="-7.3118472"
        xml:space="preserve"
        x="80.764565"
-       style="font-style:normal;font-weight:normal;font-size:10.58329964px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458299px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="text2013"
        transform="rotate(55.32923)"><tspan
          y="-7.3118472"
          x="80.764565"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666989px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#008000;fill-opacity:1;stroke-width:0.26458299px;stroke-linecap:butt;stroke-linejoin:round"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#008000;fill-opacity:1;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:round"
          sodipodi:role="line"
          id="tspan2011">Noisy optic flow</tspan></text>
     <g
@@ -2496,24 +2496,24 @@
          y="18.224022"
          xml:space="preserve"
          x="65.830734"
-         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="text1957"><tspan
            y="18.224022"
            x="65.830734"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:round"
            sodipodi:role="line"
            id="tspan1955">Pixel resolution = 0.1°</tspan></text>
       <text
          y="21.021044"
          xml:space="preserve"
          x="65.830734"
-         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="text1957-44"><tspan
            y="21.021044"
            x="65.830734"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:round"
            sodipodi:role="line"
-           id="tspan1955-2">Pixel resolution = 0.001°</tspan></text>
+           id="tspan1955-2">Pixel resolution = 0.086°</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path5840"
