@@ -26,9 +26,9 @@ K = [[615.8287353515625, 0.0, 320.0995178222656],
 FOV_X = np.arctan(320/K[0][0])*2
 FOV_Y = np.arctan(240/K[1][1])*2
 
-VELOCITY_ESTIMATE = "vel_estimate.npy"
-V_OVER_D_ESTIMATE = "v_over_d_full.npy"
-DATA_FOLDER = "data/straight-gt-1"
+VELOCITY_ESTIMATE = "velocity_estimate.npy"
+V_OVER_D_ESTIMATE = "FLIVVER_DATA/v_over_d_no_matchedfilter_full.npy"
+DATA_FOLDER = "FLIVVER_DATA/raw_data"
 
 def get_timestamps(im_folder):
     times = [float(str(path.name)[:-4]) for path in Path(im_folder).glob("*")]
