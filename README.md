@@ -4,7 +4,7 @@ Insect inspired visual-based velocity estimation through spatial pooling of opti
 
 # Data
 
-You can download the raw data from datadryad here: link
+You can download the raw data from datadryad here: https://datadryad.org/stash/dataset/doi:10.5061/dryad.w3r2280r6
 
 Update the `data_directory` location at the top of each of the notebooks before running them. 
 
